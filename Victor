@@ -1,0 +1,17 @@
+victory-faith-hub/
+├─ public/
+│   └─ index.html
+├─ src/
+│  ├─ components/
+│  │   └─ Navbar.jsx
+│  ├─ pages/
+│  │   ├─ Home.jsx
+│  │   ├─ Bible.jsx
+│  │   ├─ Messages.jsx
+│  │   ├─ Confession.jsx
+│  │   ├─ Testimony.jsx
+│  │   └─ PrayerRequest.jsx
+│  ├─ App.jsx
+│  └─ main.jsx
+├─ package.json
+└─ vite.config.js
